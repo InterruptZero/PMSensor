@@ -9,8 +9,8 @@ Click **Connect** then connect.
 You can choose CF=1 or STD.
 The AQI compute may not exact.
 ## Program struct
-Images:Same with Resources
-Resources:the image resources
+### Images:Same with Resources
+### Resources:the image resources
 - green:green background
 - yellow:yellow background
 - orange:orange background
@@ -18,7 +18,7 @@ Resources:the image resources
 - purple:purple background
 - deep:deep-red background
 - what:background when Unconnected
-Form1.cs:main code
+### Form1.cs:main code
 - Byte2Hex:Convert two bytes to a hex
 - InitPortscb:Init the port combobox and event
 - ParseData:Parse the data from serial
